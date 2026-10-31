@@ -1,0 +1,10 @@
+{
+  "name": "porto-drac",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Privat familjesajt för Porto Drac i Sant Elm, Mallorca",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  }
+}
