@@ -1,0 +1,15 @@
+# Store text files with LF and check them out with LF on every platform
+* text=auto eol=lf
+
+# Binary assets: never convert or diff as text
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.gif binary
+*.webp binary
+*.ico binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.otf binary
+*.pdf binary
